@@ -35,7 +35,7 @@ Refer to `libraries.txt` for exact library versions.
 
 ## Wiring Diagram
 
-See the `images/wiring_diagram.png` file for the complete hardware connection layout.
+See the `images/Schematic_diagram.png` file for the complete hardware connection layout.
 
 ## Setup Instructions
 
